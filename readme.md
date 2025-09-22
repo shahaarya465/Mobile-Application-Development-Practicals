@@ -8,11 +8,11 @@ The repository is structured to keep each practical isolated. Each main folder c
 
 ```
 .
-├── Practical-01/
+├── practical1/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── ...
-├── Practical-02/
+├── practical2/
 │   ├── lib/
 │   ├── pubspec.yaml
 │   └── ...
